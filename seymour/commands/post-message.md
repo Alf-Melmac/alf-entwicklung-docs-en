@@ -8,7 +8,7 @@ description: Makes the bot send a message to the same channel.
 
 ## Command
 
-/postMessage `messageContent`
+/postMessage
 
 ## Action
 
@@ -17,5 +17,5 @@ Makes the bot send a message to the same channel. The author of the message is t
 
 
 {% hint style="info" %}
-To edit a message see [edit-message.md](edit-message.md "mention")
+To edit this message see [edit-message.md](edit-message.md "mention")
 {% endhint %}

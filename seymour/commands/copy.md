@@ -12,7 +12,7 @@ description: Copies a message from the current channel to another channel.
 
 ## Action
 
-Copies the message including attachements with the given id into the specified channel.
+Copies the message with the given id including all attachments to the specified channel.
 
 ## Response
 
