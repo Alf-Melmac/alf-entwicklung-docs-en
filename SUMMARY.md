@@ -44,5 +44,5 @@
   * [Copy](seymour/commands/copy.md)
   * [Edit message](seymour/commands/edit-message.md)
   * [Post Message](seymour/commands/post-message.md)
-  * [Vote](seymour/commands/vote.md)
+  * [Start Vote](seymour/commands/start-vote.md)
 * [Features](seymour/features.md)

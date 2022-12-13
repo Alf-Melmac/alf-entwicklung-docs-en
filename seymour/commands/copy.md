@@ -4,6 +4,8 @@ description: Copies a message from the current channel to another channel.
 
 # Copy
 
+<figure><img src="../../.gitbook/assets/Seymour-Copy.gif" alt=""><figcaption></figcaption></figure>
+
 ## Command
 
 /copy `message-id` `new-channel`

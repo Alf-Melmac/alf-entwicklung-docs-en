@@ -6,20 +6,20 @@ description: List of all available Discord interactions.
 
 ## Slash Command
 
-| Command | Default Required Permission | Details                        |
-| ------- | --------------------------- | ------------------------------ |
-| Admin   | Administrator               | [admin.md](admin.md "mention") |
-| Copy    | Manage Messages             | [copy.md](copy.md "mention")   |
+| Command      | Default Required Permission | Details                                      |
+| ------------ | --------------------------- | -------------------------------------------- |
+| Admin        | Administrator               | [admin.md](admin.md "mention")               |
+| Copy         | Manage Messages             | [copy.md](copy.md "mention")                 |
+| Post Message | Manage Messages             | [post-message.md](post-message.md "mention") |
 
 <figure><img src="../../.gitbook/assets/discord-slash-command.png" alt=""><figcaption></figcaption></figure>
 
 ## Message Context Menu
 
-| Command     | Default Required Permission | Details                                      |
-| ----------- | --------------------------- | -------------------------------------------- |
-| EditMessage | Manage Messages             | [edit-message.md](edit-message.md "mention") |
-| PostMessage | Manage Messages             | [post-message.md](post-message.md "mention") |
-| StartVote   | Add Reactions               | [vote.md](vote.md "mention")                 |
+| Command      | Default Required Permission | Details                                      |
+| ------------ | --------------------------- | -------------------------------------------- |
+| Edit Message | Manage Messages             | [edit-message.md](edit-message.md "mention") |
+| Start Vote   | Add Reactions               | [start-vote.md](start-vote.md "mention")     |
 
 <figure><img src="../../.gitbook/assets/discord-message-context-menu.png" alt=""><figcaption></figcaption></figure>
 

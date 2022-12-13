@@ -4,6 +4,8 @@ description: Admin Utilities
 
 # Admin
 
+<figure><img src="../../.gitbook/assets/Seymour-Admin.gif" alt=""><figcaption></figcaption></figure>
+
 ## Command
 
 /admin
