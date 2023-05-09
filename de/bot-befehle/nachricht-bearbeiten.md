@@ -4,7 +4,7 @@ description: Bearbeitet eine Bot-Nachricht.
 
 # Nachricht bearbeiten
 
-![](<../.gitbook/assets/Seymour-Edit-Message.gif>)
+![](../.gitbook/assets/Seymour-Edit-Message.gif)
 
 ## Befehl
 

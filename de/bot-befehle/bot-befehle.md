@@ -2,7 +2,7 @@
 description: Aufzählung aller verfügbaren Discord Interaktionen.
 ---
 
-# Bot Befehle
+# Übersicht
 
 ## Slash Command
 

@@ -1,6 +1,7 @@
 ---
 description: >-
-  Discord Bot mit allgemein nützlichen Features, die keinen persistenten Speicher benötigen.
+  Discord Bot mit allgemein nützlichen Features, die keinen persistenten
+  Speicher benötigen.
 ---
 
 # Seymour
