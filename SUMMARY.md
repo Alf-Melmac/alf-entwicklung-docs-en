@@ -1,12 +1,16 @@
 # Table of contents
 
-## Seymour
-
 * [Seymour](README.md)
-* [Commands](seymour/commands/README.md)
-  * [Admin](seymour/commands/admin.md)
-  * [Copy](seymour/commands/copy.md)
-  * [Edit message](seymour/commands/edit-message.md)
-  * [Post Message](seymour/commands/post-message.md)
-  * [Start Vote](seymour/commands/start-vote.md)
-* [Additional Features](seymour/additional-features.md)
+
+## Commands
+
+* [Overview](commands/overview.md)
+* [Admin](commands/admin.md)
+* [Copy](commands/copy.md)
+* [Edit message](commands/edit-message.md)
+* [Post Message](commands/post-message.md)
+* [Start Vote](commands/start-vote.md)
+
+***
+
+* [Additional Features](additional-features.md)
