@@ -4,7 +4,7 @@ description: Edits a bot message.
 
 # Edit message
 
-![](../../.gitbook/assets/Seymour-Edit-Message.gif)
+![](../.gitbook/assets/Seymour-Edit-Message.gif)
 
 ## Command
 

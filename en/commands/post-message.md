@@ -4,7 +4,7 @@ description: Makes the bot send a message to the same channel.
 
 # Post Message
 
-![](../../.gitbook/assets/Seymour-Post-Message.gif)
+![](../.gitbook/assets/Seymour-Post-Message.gif)
 
 ## Command
 

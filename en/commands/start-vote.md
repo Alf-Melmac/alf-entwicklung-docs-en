@@ -4,7 +4,7 @@ description: Start a voting with reactions.
 
 # Start Vote
 
-<figure><img src="../../.gitbook/assets/Seymour-Start-Vote.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Seymour-Start-Vote.gif" alt=""><figcaption></figcaption></figure>
 
 ## Command
 
