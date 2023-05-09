@@ -25,4 +25,4 @@ description: List of all available Discord interactions.
 
 
 
-_Discords_ [_Slash Commands FAQ_](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ) _and_ [_Application Commands_](https://discord.com/developers/docs/interactions/application-commands)__
+_Discords_ [_Slash Commands FAQ_](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ) _and_ [_Application Commands_](https://discord.com/developers/docs/interactions/application-commands)
