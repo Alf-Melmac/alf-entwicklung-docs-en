@@ -6,6 +6,12 @@ description: Bearbeitet eine Bot-Nachricht.
 
 ![](../.gitbook/assets/Seymour-Edit-Message.gif)
 
+{% hint style="info" %}
+**Berechtigungen**
+
+Um eine Nachricht bearbeiten zu können, muss der Bot, wie beim Senden, über die Berechtigungen **Kanal anzeigen** und **Nachrichten senden** verfügen.
+{% endhint %}
+
 ## Befehl
 
 Rechtsklick auf eine Bot-Nachricht. Apps > Nachricht bearbeiten

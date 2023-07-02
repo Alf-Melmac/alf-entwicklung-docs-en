@@ -6,6 +6,15 @@ description: Eine Abstimmung durch Reaktionen starten.
 
 <figure><img src="../.gitbook/assets/Seymour-Start-Vote.gif" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+**Berechtigungen**
+
+Eine Abstimmung kann nur gestartet werden, wenn der Bot die folgenden Berechtigungen im Kanal hat
+
+* **Nachrichtenverlauf anzeigen**
+* **Reaktionen hinzufügen**
+{% endhint %}
+
 ## Befehl
 
 Rechtsklick auf eine Nachricht. Apps > Abstimmung starten

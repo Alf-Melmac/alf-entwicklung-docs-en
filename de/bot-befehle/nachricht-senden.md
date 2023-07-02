@@ -6,6 +6,12 @@ description: Lässt den Bot eine Nachricht an denselben Kanal senden.
 
 ![](../.gitbook/assets/Seymour-Post-Message.gif)
 
+{% hint style="info" %}
+**Berechtigungen**
+
+Um eine Nachricht senden zu können muss der Bot über die Berechtigungen **Kanal anzeigen** und **Nachrichten senden** verfügen.
+{% endhint %}
+
 ## Befehl
 
 /nachricht\_senden
