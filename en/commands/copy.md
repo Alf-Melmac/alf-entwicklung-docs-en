@@ -6,6 +6,12 @@ description: Copies a message from the current channel to another channel.
 
 <figure><img src="../.gitbook/assets/Seymour-Copy.gif" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+**Permissions**
+
+The bot must have the **View Channel** permission in the source channel and additionally **Send Messages** in the target channel so that a message can be copied.
+{% endhint %}
+
 ## Command
 
 /copy `message-id` `new-channel`

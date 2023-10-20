@@ -6,6 +6,12 @@ description: Edits a bot message.
 
 ![](../.gitbook/assets/Seymour-Edit-Message.gif)
 
+{% hint style="info" %}
+**Permissions**
+
+To be able to edit a message, the bot must have the permissions **View Channel** and **Send Messages**, just as when it sends them.
+{% endhint %}
+
 ## Command
 
 Right click a bot message. Apps > Edit message
